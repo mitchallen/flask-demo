@@ -1,6 +1,10 @@
 flask-demo
 ==
 
+See article:
+
+* [How to Create a Web Server in Python (Flask)](https://scriptable.com/how-to-create-a-web-server-in-python-flask/)
+
 ## Usage
 
 * Start Docker
